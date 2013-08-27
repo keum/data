@@ -1,4 +1,4 @@
 data
 ====
 
-various data in geojson
+Converted ESRI shape files in GeoJSON format
