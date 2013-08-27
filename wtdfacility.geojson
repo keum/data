@@ -1,0 +1,168 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*MATTHEWS.MATTHEWS", "FACILITY_T": "18", "X_COORDINA": -122.27596829, "Y_COORDINA": 47.69640625, "FIRS_TAG_1": "WW*MATTHEWS.MATTHEWS", "LOWER_CASE": "Matthews Park PS", "Address": "9310 Sand Pt Way NE", "City_State": "Seattle, WA 98115" }, "geometry": { "type": "Point", "coordinates": [ 1285175.999, 257357.24199997509 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*KENMORE.LOGBOOM", "FACILITY_T": "19", "X_COORDINA": -122.26432098, "Y_COORDINA": 47.75793729, "FIRS_TAG_1": "WW*KENMORE.LOGBOOM", "LOWER_CASE": "Logboom RS", "Address": "6001 NE Bothell Way", "City_State": "Kenmore, WA 98028" }, "geometry": { "type": "Point", "coordinates": [ 1288461.0760000045, 279744.29799998779 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*KENMR.KENMORE", "FACILITY_T": "18", "X_COORDINA": -122.2523289, "Y_COORDINA": 47.75787361, "FIRS_TAG_1": "WW*KENMR.KENMORE", "LOWER_CASE": "Kenmore PS", "Address": "6719 NE 175th St", "City_State": "Kenmore, WA 98028" }, "geometry": { "type": "Point", "coordinates": [ 1291409.8, 279666.45799999009 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*SAMVAL.WOODINVIL", "FACILITY_T": "18", "X_COORDINA": -122.16808524, "Y_COORDINA": 47.75428913, "FIRS_TAG_1": "WW*SAMVAL.WOODINVIL", "LOWER_CASE": "Woodinville PS", "Address": "12900 Woodinville Duvall Rd", "City_State": "Woodinville, WA 98072" }, "geometry": { "type": "Point", "coordinates": [ 1312105.0, 277988.43799998774 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "CW*CARKEEK.STP", "FACILITY_T": "48", "X_COORDINA": -122.37094051, "Y_COORDINA": 47.71075997, "FIRS_TAG_1": "CW*CARKEEK.STP", "LOWER_CASE": "Carkeek CSO TP", "Address": "1201 NW Carkeek Park Dr", "City_State": "Seattle, WA 98177" }, "geometry": { "type": "Point", "coordinates": [ 1261897.2499999986, 263044.78099997429 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*YORK.YORK", "FACILITY_T": "18", "X_COORDINA": -122.15216803, "Y_COORDINA": 47.71172537, "FIRS_TAG_1": "RE*YORK.YORK", "LOWER_CASE": "York PS", "Address": "14120 NE 124th St", "City_State": "Redmond, WA 98034" }, "geometry": { "type": "Point", "coordinates": [ 1315753.7440000018, 262397.36099999544 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*SAMVAL.HOLLYWOOD", "FACILITY_T": "18", "X_COORDINA": -122.14206458, "Y_COORDINA": 47.71096612, "FIRS_TAG_1": "WW*SAMVAL.HOLLYWOOD", "LOWER_CASE": "Hollywood PS", "Address": "14815 NE 124th St", "City_State": "Redmond, WA 98052" }, "geometry": { "type": "Point", "coordinates": [ 1318236.0, 262077.9909999822 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*KIRKLAND.KIRKLAND", "FACILITY_T": "18", "X_COORDINA": -122.20366283, "Y_COORDINA": 47.67658811, "FIRS_TAG_1": "RE*KIRKLAND.KIRKLAND", "LOWER_CASE": "Kirkland PS", "Address": "3rd St and Park Lane", "City_State": "Kirkland, WA 98033" }, "geometry": { "type": "Point", "coordinates": [ 1302850.1620000019, 249803.99499999519 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*LANDER.LANDER2", "FACILITY_T": "19", "X_COORDINA": -122.33647097, "Y_COORDINA": 47.57974851, "FIRS_TAG_1": "WW*LANDER.LANDER2", "LOWER_CASE": "Lander 2 RS", "Address": null, "City_State": null }, "geometry": { "type": "Point", "coordinates": [ 1269448.3159999966, 215097.77900000033 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*HNFORD.HANFORD 2", "FACILITY_T": "19", "X_COORDINA": -122.34025423, "Y_COORDINA": 47.57588181, "FIRS_TAG_1": "WW*HNFORD.HANFORD 2", "LOWER_CASE": "Hanford RS", "Address": "2999 E. Marginal Way S", "City_State": "Seattle, WA 98134" }, "geometry": { "type": "Point", "coordinates": [ 1268487.124999999, 213705.87500000233 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "AE*ALKI.STP", "FACILITY_T": "48", "X_COORDINA": -122.41695127, "Y_COORDINA": 47.5745425, "FIRS_TAG_1": "AE*ALKI.STP", "LOWER_CASE": "Alki CSO TP", "Address": "3380 Beach Dr. SW", "City_State": "Seattle, WA 98116" }, "geometry": { "type": "Point", "coordinates": [ 1249549.7590000045, 213597.5519999917 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*ISSAQ1.HEATHFIEL", "FACILITY_T": "18", "X_COORDINA": -122.12310379, "Y_COORDINA": 47.57821164, "FIRS_TAG_1": "RE*ISSAQ1.HEATHFIEL", "LOWER_CASE": "Heathfield PS", "Address": "3541 163rd Ave SE", "City_State": "Bellevue, WA 98008" }, "geometry": { "type": "Point", "coordinates": [ 1322091.75, 213581.7189999948 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*ISSAQ1.SUNSET", "FACILITY_T": "18", "X_COORDINA": -122.11135654, "Y_COORDINA": 47.57631874, "FIRS_TAG_1": "RE*ISSAQ1.SUNSET", "LOWER_CASE": "Sunset PS", "Address": "3730 W Lake Sammamish Pkwy SE\t", "City_State": "Bellevue, WA 98027" }, "geometry": { "type": "Point", "coordinates": [ 1324979.3229999975, 212842.98299998758 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "AE*BEACH.63RD", "FACILITY_T": "18", "X_COORDINA": -122.41326786, "Y_COORDINA": 47.57231425, "FIRS_TAG_1": "AE*BEACH.63RD", "LOWER_CASE": "63rd Ave PS", "Address": "3535 Beach Dr SW", "City_State": "Seattle, WA 98116" }, "geometry": { "type": "Point", "coordinates": [ 1250442.0820000011, 212766.24699999471 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WE*WDUWAM.CHELAN", "FACILITY_T": "19", "X_COORDINA": -122.35926404, "Y_COORDINA": 47.57249103, "FIRS_TAG_1": "WE*WDUWAM.CHELAN", "LOWER_CASE": "Chelan RS", "Address": "3455 Chelan Ave SW", "City_State": "Seattle, WA 98106" }, "geometry": { "type": "Point", "coordinates": [ 1263771.323, 212561.73300000225 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WE*HARBOR.HARBOR", "FACILITY_T": "19", "X_COORDINA": -122.37047212, "Y_COORDINA": 47.57207249, "FIRS_TAG_1": "WE*HARBOR.HARBOR", "LOWER_CASE": "Harbor RS", "Address": "3432 Harbor Ave SW", "City_State": "Seattle, WA 98126" }, "geometry": { "type": "Point", "coordinates": [ 1261002.1490000067, 212464.15000001804 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "AE*BEACH.BARTON", "FACILITY_T": "18", "X_COORDINA": -122.39353329, "Y_COORDINA": 47.5233398, "FIRS_TAG_1": "AE*BEACH.BARTON", "LOWER_CASE": "Barton PS", "Address": "9005 Fauntleroy Way SW", "City_State": "Seattle, WA 98136" }, "geometry": { "type": "Point", "coordinates": [ 1254950.3359999985, 194806.37800000625 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WE*HNDRSON.HENDERSON", "FACILITY_T": "18", "X_COORDINA": -122.26497575, "Y_COORDINA": 47.52312251, "FIRS_TAG_1": "WE*HNDRSON.HENDERSON", "LOWER_CASE": "Henderson PS", "Address": "5327 S Henderson S", "City_State": "Seattle, WA 98118" }, "geometry": { "type": "Point", "coordinates": [ 1286706.733999995, 194109.72799997954 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*NINT.UNIVREG", "FACILITY_T": "19", "X_COORDINA": -122.30698513, "Y_COORDINA": 47.65046746, "FIRS_TAG_1": "WW*NINT.UNIVREG", "LOWER_CASE": "University RS", "Address": "1901 NE Pacific Place", "City_State": "Seattle, WA 98105" }, "geometry": { "type": "Point", "coordinates": [ 1277218.342999992, 240748.12400000222 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*SWLKWA.MONTLAKE", "FACILITY_T": "19", "X_COORDINA": -122.3046809, "Y_COORDINA": 47.64646281, "FIRS_TAG_1": "WW*SWLKWA.MONTLAKE", "LOWER_CASE": "Montlake RS", "Address": "2910 Mountlake Blvd E", "City_State": "Seattle, WA 98105" }, "geometry": { "type": "Point", "coordinates": [ 1277758.25, 239276.76599999514 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*YARROW.YARROWBAY", "FACILITY_T": "18", "X_COORDINA": -122.20417571, "Y_COORDINA": 47.64917174, "FIRS_TAG_1": "RE*YARROW.YARROWBAY", "LOWER_CASE": "Yarrow Bay PS", "Address": "4400 Lake Washington Blvd NE", "City_State": "Kirkland, WA 98033" }, "geometry": { "type": "Point", "coordinates": [ 1302545.6990000021, 239807.27799999743 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*WPOINT.STP", "FACILITY_T": "38", "X_COORDINA": -122.42880248, "Y_COORDINA": 47.66185994, "FIRS_TAG_1": "WW*WPOINT.STP", "LOWER_CASE": "West Point STP", "Address": "1400 Discovery Park Blvd", "City_State": "Seattle, WA 98199" }, "geometry": { "type": "Point", "coordinates": [ 1247285.3490000085, 245501.49500000203 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*BALLARD.BALLARD", "FACILITY_T": "19", "X_COORDINA": -122.38189266000001, "Y_COORDINA": 47.66434555, "FIRS_TAG_1": "WW*BALLARD.BALLARD", "LOWER_CASE": "Ballard RS", "Address": "5110 Shilshole Ave NW", "City_State": "Seattle, WA 98107" }, "geometry": { "type": "Point", "coordinates": [ 1258860.8159999971, 246171.86200000194 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*LAUREL.BELVOIR", "FACILITY_T": "18", "X_COORDINA": -122.2864096, "Y_COORDINA": 47.65673408, "FIRS_TAG_1": "WW*LAUREL.BELVOIR", "LOWER_CASE": "Belvoir PS", "Address": "3901 Surber Dr NE", "City_State": "Seattle, WA 98105" }, "geometry": { "type": "Point", "coordinates": [ 1282331.968999999, 242937.13699999775 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*LKCTYTUN.LAKECITY", "FACILITY_T": "19", "X_COORDINA": -122.32041618, "Y_COORDINA": 47.65610491, "FIRS_TAG_1": "WW*LKCTYTUN.LAKECITY", "LOWER_CASE": "Lake City Tunnel RS", "Address": "708 40th St NE", "City_State": "Seattle, WA 98105" }, "geometry": { "type": "Point", "coordinates": [ 1273948.2499999974, 242867.76600001132 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*EBI8.INTERBAY", "FACILITY_T": "18", "X_COORDINA": -122.37771756, "Y_COORDINA": 47.63315948, "FIRS_TAG_1": "WW*EBI8.INTERBAY", "LOWER_CASE": "Interbay PS", "Address": "1601 W Garfield St", "City_State": "Seattle, WA 98119" }, "geometry": { "type": "Point", "coordinates": [ 1259661.1249999977, 234777.87499999406 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*CENTRAL.DEXTER", "FACILITY_T": "19", "X_COORDINA": -122.34228064, "Y_COORDINA": 47.63228924, "FIRS_TAG_1": "WW*CENTRAL.DEXTER", "LOWER_CASE": "Dexter RS", "Address": "1419 Dexter Ave N", "City_State": "Seattle, WA 98109" }, "geometry": { "type": "Point", "coordinates": [ 1268390.456999999, 234287.18499998428 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*MEDINA.MEDINA", "FACILITY_T": "18", "X_COORDINA": -122.23154535, "Y_COORDINA": 47.61733358, "FIRS_TAG_1": "RE*MEDINA.MEDINA", "LOWER_CASE": "Medina PS", "Address": "NE 8th St and 81st Ave NE", "City_State": "Medina, WA 98039" }, "geometry": { "type": "Point", "coordinates": [ 1295589.6580000075, 228317.09900000822 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*DENNY.DENNY", "FACILITY_T": "19", "X_COORDINA": -122.36010533, "Y_COORDINA": 47.6184318, "FIRS_TAG_1": "WW*DENNY.DENNY", "LOWER_CASE": "Denny RS", "Address": "3165 Alaskan Way", "City_State": "Seattle, WA 98121" }, "geometry": { "type": "Point", "coordinates": [ 1263896.132999999, 229320.14199999283 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*SWLKWA.EPINE", "FACILITY_T": "18", "X_COORDINA": -122.28119645, "Y_COORDINA": 47.61502002, "FIRS_TAG_1": "WW*SWLKWA.EPINE", "LOWER_CASE": "E Pine PS", "Address": "1600 Lake Wash Blvd", "City_State": "Seattle, WA 98122" }, "geometry": { "type": "Point", "coordinates": [ 1283330.2499999977, 227699.76600000972 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*KING.KING", "FACILITY_T": "19", "X_COORDINA": -122.33614802, "Y_COORDINA": 47.59829719, "FIRS_TAG_1": "WW*KING.KING", "LOWER_CASE": "King RS", "Address": "499 Alaskan Way S", "City_State": "Seattle, WA 98134" }, "geometry": { "type": "Point", "coordinates": [ 1269660.1250000023, 221860.84399998968 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*HNFORD.RAINIER", "FACILITY_T": "18", "X_COORDINA": -122.29129741, "Y_COORDINA": 47.56969234, "FIRS_TAG_1": "WW*HNFORD.RAINIER", "LOWER_CASE": "Rainier PS", "Address": "3761 Rainier Ave S", "City_State": "Seattle, WA 98144" }, "geometry": { "type": "Point", "coordinates": [ 1280526.124999997, 211215.81199999608 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WE*EBI3.DUWAMISH", "FACILITY_T": "18", "X_COORDINA": -122.33991450000001, "Y_COORDINA": 47.56293504, "FIRS_TAG_1": "WE*EBI3.DUWAMISH", "LOWER_CASE": "Duwamish PS", "Address": "4501 E Marginal Wy S", "City_State": "Seattle, WA 98134" }, "geometry": { "type": "Point", "coordinates": [ 1268478.5180000062, 208982.61000001014 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WE*WDUWAM.WMARGINAL", "FACILITY_T": "18", "X_COORDINA": -122.3403289, "Y_COORDINA": 47.53896239, "FIRS_TAG_1": "WE*WDUWAM.WMARGINAL", "LOWER_CASE": "W Marginal PS", "Address": "7119 W Marginal Way SW", "City_State": "Seattle, WA 98106" }, "geometry": { "type": "Point", "coordinates": [ 1268205.0, 200241.906 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "AE*BEACH.53RD", "FACILITY_T": "18", "X_COORDINA": -122.40121069, "Y_COORDINA": 47.58352794, "FIRS_TAG_1": "AE*BEACH.53RD", "LOWER_CASE": "53rd Ave PS", "Address": "2301 Alki Ave SW", "City_State": "Seattle, WA 98116" }, "geometry": { "type": "Point", "coordinates": [ 1253501.063999993, 216794.89600001965 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*NMER.NMERCER", "FACILITY_T": "18", "X_COORDINA": -122.23602829, "Y_COORDINA": 47.59098163, "FIRS_TAG_1": "RE*NMER.NMERCER", "LOWER_CASE": "N Mercer PS", "Address": "7631 SE 22nd St", "City_State": "Mercer Island, WA 98040" }, "geometry": { "type": "Point", "coordinates": [ 1294309.0059999977, 218726.5420000017 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*LANDER.LANDER", "FACILITY_T": "19", "X_COORDINA": -122.34029626, "Y_COORDINA": 47.57991122, "FIRS_TAG_1": "WW*LANDER.LANDER", "LOWER_CASE": "Lander RS", "Address": "Colorado Ave S and S Lander St\t", "City_State": "Seattle, WA 98134" }, "geometry": { "type": "Point", "coordinates": [ 1268505.5330000075, 215175.5840000032 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WE*BRANDON.BRANDON", "FACILITY_T": "19", "X_COORDINA": -122.33789276, "Y_COORDINA": 47.55430056, "FIRS_TAG_1": "WE*BRANDON.BRANDON", "LOWER_CASE": "Brandon RS", "Address": "5241 E Marginal Way S", "City_State": "Seattle, WA 98134" }, "geometry": { "type": "Point", "coordinates": [ 1268916.0, 205823.89100000379 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WE*MICHIGAN.MICHIGAN", "FACILITY_T": "19", "X_COORDINA": -122.33157988000001, "Y_COORDINA": 47.54478691, "FIRS_TAG_1": "WE*MICHIGAN.MICHIGAN", "LOWER_CASE": "Michigan RS", "Address": "159 S Michigan St", "City_State": "Seattle, WA 98108" }, "geometry": { "type": "Point", "coordinates": [ 1270406.999999997, 202323.89100000175 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WE*WMICHIGA.WMICHIGAN", "FACILITY_T": "19", "X_COORDINA": -122.34366072, "Y_COORDINA": 47.54103225, "FIRS_TAG_1": "WE*WMICHIGA.WMICHIGAN", "LOWER_CASE": "W Michigan RS", "Address": "6769 W Marginal Wy SW", "City_State": "Seattle, WA 98106" }, "geometry": { "type": "Point", "coordinates": [ 1267396.999999999, 201012.9060000004 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*SMERCER.SMERCER", "FACILITY_T": "18", "X_COORDINA": -122.21057772, "Y_COORDINA": 47.53838904, "FIRS_TAG_1": "RE*SMERCER.SMERCER", "LOWER_CASE": "S Mercer PS", "Address": "E Mercer Wy and SE 72nd St", "City_State": "Mercer Is, WA 98040" }, "geometry": { "type": "Point", "coordinates": [ 1300244.8190000078, 199432.25399998511 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "AE*BEACH.MURRAY", "FACILITY_T": "18", "X_COORDINA": -122.39667401, "Y_COORDINA": 47.53984497, "FIRS_TAG_1": "AE*BEACH.MURRAY", "LOWER_CASE": "Murray PS", "Address": "7015 Beach Dr SW", "City_State": "Seattle, WA 98136" }, "geometry": { "type": "Point", "coordinates": [ 1254296.7849999969, 200841.39 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WE*WDUWAM.8TH", "FACILITY_T": "19", "X_COORDINA": -122.32296705, "Y_COORDINA": 47.5334879, "FIRS_TAG_1": "WE*WDUWAM.8TH", "LOWER_CASE": "8th Ave RS", "Address": "760 S Portland St", "City_State": "Seattle, WA 98108" }, "geometry": { "type": "Point", "coordinates": [ 1272454.0, 198161.89100000067 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WE*HNDRSON.ALLENTOWN", "FACILITY_T": "19", "X_COORDINA": -122.28873222, "Y_COORDINA": 47.51390892, "FIRS_TAG_1": "WE*HNDRSON.ALLENTOWN", "LOWER_CASE": "Allentown RS", "Address": null, "City_State": null }, "geometry": { "type": "Point", "coordinates": [ 1280774.4599999948, 190859.63099999703 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*LAKELAND.LAKELAND", "FACILITY_T": "18", "X_COORDINA": -122.22127666, "Y_COORDINA": 47.27013042, "FIRS_TAG_1": "RE*LAKELAND.LAKELAND", "LOWER_CASE": "Lakeland Hills PS", "Address": "699 Orvalez Rd", "City_State": "Auburn, WA 98092" }, "geometry": { "type": "Point", "coordinates": [ 1295837.8270000098, 101643.96599999195 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*RENTON.STP", "FACILITY_T": "38", "X_COORDINA": -122.24063898, "Y_COORDINA": 47.46837664, "FIRS_TAG_1": "RE*RENTON.STP", "LOWER_CASE": "South STP", "Address": "1200 Monster Rd SW", "City_State": "Renton, WA 98057" }, "geometry": { "type": "Point", "coordinates": [ 1292353.6809999931, 174032.78400000592 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*RENTON.EPS", "FACILITY_T": "18", "X_COORDINA": -122.24056403, "Y_COORDINA": 47.46762478, "FIRS_TAG_1": "RE*RENTON.EPS", "LOWER_CASE": "Renton Effluent PS", "Address": null, "City_State": null }, "geometry": { "type": "Point", "coordinates": [ 1292367.2020000052, 173758.23699998303 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*WSEA.WSEATTLE", "FACILITY_T": "18", "X_COORDINA": -122.37151966, "Y_COORDINA": 47.57578969, "FIRS_TAG_1": "WW*WSEA.WSEATTLE", "LOWER_CASE": "W Seattle PS", "Address": "3041Harbor Ave SW", "City_State": "Seattle, WA 98126" }, "geometry": { "type": "Point", "coordinates": [ 1260770.7189999972, 213824.94899999726 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WE*WSEATTLE.REG", "FACILITY_T": "19", "X_COORDINA": -122.41263503, "Y_COORDINA": 47.57230119, "FIRS_TAG_1": "WE*WSEATTLE.REG", "LOWER_CASE": "W Seattle RS", "Address": null, "City_State": null }, "geometry": { "type": "Point", "coordinates": [ 1250598.1619999979, 212758.27900000042 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*BOE-CHILL.PS", "FACILITY_T": "18", "X_COORDINA": -122.23884473, "Y_COORDINA": 47.46799945, "FIRS_TAG_1": "RE*BOE-CHILL.PS", "LOWER_CASE": "Boeing Chiller PS", "Address": null, "City_State": null }, "geometry": { "type": "Point", "coordinates": [ 1292794.8840000057, 173887.10899999851 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*ELLIOTTW.ELLIOTTWEST", "FACILITY_T": "48", "X_COORDINA": -122.36639175000001, "Y_COORDINA": 47.62449504, "FIRS_TAG_1": "WW*ELLIOTTW.ELLIOTTWEST", "LOWER_CASE": "Elliott West CSO TP", "Address": "545 Elliott Ave W", "City_State": "Seattle, WA 98119" }, "geometry": { "type": "Point", "coordinates": [ 1262390.0859999957, 231562.1840000106 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*LUNION.LU20-LUTREG", "FACILITY_T": "19", "X_COORDINA": -122.34100765, "Y_COORDINA": 47.62323102, "FIRS_TAG_1": "WW*LUNION.LU20-LUTREG", "LOWER_CASE": "Lake Union Tunnel RS", "Address": null, "City_State": null }, "geometry": { "type": "Point", "coordinates": [ 1268639.5390000027, 230977.5419999889 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "CW*CARKEEK.PS", "FACILITY_T": "18", "X_COORDINA": -122.36987549, "Y_COORDINA": 47.71086144, "FIRS_TAG_1": "CW*CARKEEK.PS", "LOWER_CASE": "Carkeek PS", "Address": "1201 NW Carkeek Park Dr", "City_State": "Seattle, WA 98177" }, "geometry": { "type": "Point", "coordinates": [ 1262160.1350000079, 263076.55 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "VE*BUNKER.BUNKERTRAIL", "FACILITY_T": "18", "X_COORDINA": -122.46438683, "Y_COORDINA": 47.50830439, "FIRS_TAG_1": "VE*BUNKER.BUNKERTRAIL", "LOWER_CASE": "Bunker Trail 1 PS", "Address": null, "City_State": null }, "geometry": { "type": "Point", "coordinates": [ 1237331.4440000071, 189686.17299999428 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "VE*BUNKER.BT-02", "FACILITY_T": "18", "X_COORDINA": -122.46515071, "Y_COORDINA": 47.5074172, "FIRS_TAG_1": "VE*BUNKER.BT-02", "LOWER_CASE": "Bunker Trail 2 PS", "Address": null, "City_State": null }, "geometry": { "type": "Point", "coordinates": [ 1237135.8320000044, 189366.63299998906 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "VE*BUNKER.BT-03", "FACILITY_T": "18", "X_COORDINA": -122.46547446, "Y_COORDINA": 47.50420294, "FIRS_TAG_1": "VE*BUNKER.BT-03", "LOWER_CASE": "Bunker Trail 3 PS", "Address": null, "City_State": null }, "geometry": { "type": "Point", "coordinates": [ 1237030.9689999968, 188196.14200000721 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "VE*BUNKER.BT-04", "FACILITY_T": "18", "X_COORDINA": -122.46804713, "Y_COORDINA": 47.49842694, "FIRS_TAG_1": "VE*BUNKER.BT-04", "LOWER_CASE": "Bunker Trail 4 PS", "Address": null, "City_State": null }, "geometry": { "type": "Point", "coordinates": [ 1236350.4740000069, 186103.23199999135 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WE*EBI2.EMARGINAL", "FACILITY_T": "18", "X_COORDINA": -122.31784041, "Y_COORDINA": 47.53661615, "FIRS_TAG_1": "WE*EBI2.EMARGINAL", "LOWER_CASE": "E Marginal PS", "Address": "7319 E Marginal Wy S", "City_State": "Seattle, WA 98108" }, "geometry": { "type": "Point", "coordinates": [ 1273742.2140000034, 199278.28400000834 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*BLKDIA.BLKDIA", "FACILITY_T": "18", "X_COORDINA": -122.00622806, "Y_COORDINA": 47.30507271, "FIRS_TAG_1": "RE*BLKDIA.BLKDIA", "LOWER_CASE": "Black Diamond PS", "Address": "32923 Railroad Ave", "City_State": "Black Diamond, WA 98010" }, "geometry": { "type": "Point", "coordinates": [ 1349416.775999991, 113500.02100000152 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*BALLINGR.BALLINGR", "FACILITY_T": "18", "X_COORDINA": -122.33411616, "Y_COORDINA": 47.7773732, "FIRS_TAG_1": "WW*BALLINGR.BALLINGR", "LOWER_CASE": "Lake Ballinger PS", "Address": "2205 N 205 St", "City_State": "Shoreline, WA 98133" }, "geometry": { "type": "Point", "coordinates": [ 1271435.125, 287159.53099999699 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "BW*RICHMOND.RBPS", "FACILITY_T": "18", "X_COORDINA": -122.39202878, "Y_COORDINA": 47.77513314, "FIRS_TAG_1": "BW*RICHMOND.RBPS", "LOWER_CASE": "Richmond Beach PS", "Address": "20001 Richmond Beach Dr NW", "City_State": "Shoreline, WA 98177" }, "geometry": { "type": "Point", "coordinates": [ 1257182.125999999, 286625.62500000861 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WE*HNDRSONMLK.TOR", "FACILITY_T": "48", "X_COORDINA": -122.28075008, "Y_COORDINA": 47.5140977, "FIRS_TAG_1": "WE*HNDRSONMLK.TOR", "LOWER_CASE": "Henderson-MLK CSO TP", "Address": null, "City_State": null }, "geometry": { "type": "Point", "coordinates": [ 1282747.9800000018, 190891.28 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*HNDRSONMLK.TIR", "FACILITY_T": "19", "X_COORDINA": -122.28065017, "Y_COORDINA": 47.52267717, "FIRS_TAG_1": "RE*HNDRSONMLK.TIR", "LOWER_CASE": "Henderson Junction RS", "Address": null, "City_State": null }, "geometry": { "type": "Point", "coordinates": [ 1282831.5199999933, 194019.7500000018 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WE*HNDRSON.NORFOLK", "FACILITY_T": "19", "X_COORDINA": -122.29431895, "Y_COORDINA": 47.51371571, "FIRS_TAG_1": "WE*HNDRSON.NORFOLK", "LOWER_CASE": "Norfolk RS", "Address": "10000 E Marginal Wy S", "City_State": "Seattle, WA 98108" }, "geometry": { "type": "Point", "coordinates": [ 1279392.755999997, 190815.32700000869 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "BW*BOEING.HIDDENLK", "FACILITY_T": "18", "X_COORDINA": -122.37201282, "Y_COORDINA": 47.7518808, "FIRS_TAG_1": "BW*BOEING.HIDDENLK", "LOWER_CASE": "Hidden Lake PS", "Address": "16700 10th Ave NW", "City_State": "Shoreline, WA 98177" }, "geometry": { "type": "Point", "coordinates": [ 1261933.1920000026, 278046.58 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*ALPAC.PACIFIC", "FACILITY_T": "18", "X_COORDINA": -122.25886448, "Y_COORDINA": 47.26828158, "FIRS_TAG_1": "RE*ALPAC.PACIFIC", "LOWER_CASE": "Pacific PS", "Address": "100 Frontage Road N", "City_State": "Pacific, WA 98047" }, "geometry": { "type": "Point", "coordinates": [ 1286494.618000003, 101140.26299999664 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "CE*CARNATION.STP", "FACILITY_T": "38", "X_COORDINA": -121.91837401, "Y_COORDINA": 47.64753593, "FIRS_TAG_1": "CE*CARNATION.STP", "LOWER_CASE": "Carnation STP", "Address": "4405 Larson Ave W", "City_State": "Carnation, WA 98014" }, "geometry": { "type": "Point", "coordinates": [ 1372973.4350000022, 238086.65400000595 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "BW*BOEING.BOEINGCRK", "FACILITY_T": "19", "X_COORDINA": -122.36256024, "Y_COORDINA": 47.75584662, "FIRS_TAG_1": "BW*BOEING.BOEINGCRK", "LOWER_CASE": "Boeing Creek RS", "Address": null, "City_State": null }, "geometry": { "type": "Point", "coordinates": [ 1264286.7689999954, 279446.54899999406 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*JUANITA.JUANITA", "FACILITY_T": "18", "X_COORDINA": -122.21756099, "Y_COORDINA": 47.70565047, "FIRS_TAG_1": "RE*JUANITA.JUANITA", "LOWER_CASE": "Juanita Bay PS", "Address": "9290 Juanita Dr NE", "City_State": "Juanita, WA 98034" }, "geometry": { "type": "Point", "coordinates": [ 1299617.5320000052, 260464.51699998492 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*KINGDOME.KINGDOME", "FACILITY_T": "19", "X_COORDINA": -122.33334908, "Y_COORDINA": 47.59258792, "FIRS_TAG_1": "WW*KINGDOME.KINGDOME", "LOWER_CASE": "Kingdome RS", "Address": "499 Alaskan Way S", "City_State": "Seattle, WA 98134" }, "geometry": { "type": "Point", "coordinates": [ 1270309.9700000014, 219765.22600000768 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*CONNECTI.CONNECTIC", "FACILITY_T": "19", "X_COORDINA": -122.33695457, "Y_COORDINA": 47.59222241, "FIRS_TAG_1": "WW*CONNECTI.CONNECTIC", "LOWER_CASE": "Connecticut RS", "Address": "1199 Alaskan Way S", "City_State": "Seattle, WA 98134" }, "geometry": { "type": "Point", "coordinates": [ 1269417.878000004, 219649.2850000062 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "VE*VASHON.STP", "FACILITY_T": "38", "X_COORDINA": -122.4558189, "Y_COORDINA": 47.45209059, "FIRS_TAG_1": "VE*VASHON.STP", "LOWER_CASE": "Vashon STP", "Address": "9615 SW 171 st St", "City_State": "Vashon, WA 98070" }, "geometry": { "type": "Point", "coordinates": [ 1239016.2629999982, 169141.13899999342 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "WW*LAUREL.30TH", "FACILITY_T": "18", "X_COORDINA": -122.29582652000001, "Y_COORDINA": 47.66391557, "FIRS_TAG_1": "WW*LAUREL.30TH", "LOWER_CASE": "30th Ave PS", "Address": "4703 30th Ave NE", "City_State": "Seattle, WA 98105" }, "geometry": { "type": "Point", "coordinates": [ 1280061.3949999954, 245600.18500000489 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "CW*NBEACH.NBEACH", "FACILITY_T": "18", "X_COORDINA": -122.39061794, "Y_COORDINA": 47.70146612, "FIRS_TAG_1": "CW*NBEACH.NBEACH", "LOWER_CASE": "North Beach PS", "Address": "9921 Triton Dr NW", "City_State": "Seattle, WA 98117" }, "geometry": { "type": "Point", "coordinates": [ 1256985.2319999917, 259752.79699999493 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*SWEYOLOC.SWEYOLOCK", "FACILITY_T": "18", "X_COORDINA": -122.18753583, "Y_COORDINA": 47.5825995, "FIRS_TAG_1": "RE*SWEYOLOC.SWEYOLOCK", "LOWER_CASE": "Sweyolocken PS", "Address": "3100 Bellevue Wy SE", "City_State": "Bellevue, WA 98004" }, "geometry": { "type": "Point", "coordinates": [ 1306219.2099999946, 215455.18599999408 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "BE*BRIGHTWATER.IPS", "FACILITY_T": "18", "X_COORDINA": -122.18375810000001, "Y_COORDINA": 47.76869656, "FIRS_TAG_1": "BE*BRIGHTWATER.IPS", "LOWER_CASE": "Brightwater Influent PS", "Address": "11711 NE 195th St", "City_State": "Bothell, WA 98011" }, "geometry": { "type": "Point", "coordinates": [ 1308342.5237500062, 283310.25 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "BE*BRIGHTWATER.STP", "FACILITY_T": "38", "X_COORDINA": -122.14049802, "Y_COORDINA": 47.78825418, "FIRS_TAG_1": "BE*BRIGHTWATER.STP", "LOWER_CASE": "Brightwater STP", "Address": "22505 State Route 9 SE", "City_State": "Woodinville, WA 98072" }, "geometry": { "type": "Point", "coordinates": [ 1319100.4570000037, 290259.53699998627 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*NORTHCREEK.NORTHCREEK", "FACILITY_T": "18", "X_COORDINA": -122.18446559, "Y_COORDINA": 47.7629781, "FIRS_TAG_1": "RE*NORTHCREEK.NORTHCREEK", "LOWER_CASE": "North Creek PS", "Address": "18707 N Creek Pkwy", "City_State": "Bothell, WA 98011" }, "geometry": { "type": "Point", "coordinates": [ 1308131.9459999942, 281227.71424999845 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*FACTOR.WILBURTON", "FACILITY_T": "18", "X_COORDINA": -122.17992599, "Y_COORDINA": 47.60243606, "FIRS_TAG_1": "RE*FACTOR.WILBURTON", "LOWER_CASE": "Wilburton PS", "Address": "SE 10th St and 121 St Ave", "City_State": "Bellevue, WA 98005" }, "geometry": { "type": "Point", "coordinates": [ 1308223.6177500014, 222656.80500000727 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*BELLEVUE.BELLEVUE", "FACILITY_T": "18", "X_COORDINA": -122.20415992, "Y_COORDINA": 47.60450327, "FIRS_TAG_1": "RE*BELLEVUE.BELLEVUE", "LOWER_CASE": "Bellevue PS", "Address": "595 102nd Ave SE", "City_State": "Bellevue, WA 98004" }, "geometry": { "type": "Point", "coordinates": [ 1302259.3710000038, 223516.28450000085 ] } }
+,
+{ "type": "Feature", "properties": { "FIRS_TAG": "RE*TUKT.INTERURBAN", "FACILITY_T": "18", "X_COORDINA": -122.26193658, "Y_COORDINA": 47.4786226, "FIRS_TAG_1": "RE*TUKT.INTERURBAN", "LOWER_CASE": "Interurban PS", "Address": "13980 Interurban Ave S", "City_State": "Tukwila, WA 98168" }, "geometry": { "type": "Point", "coordinates": [ 1287156.212750003, 177866.5629999949 ] } }
+
+]
+}
