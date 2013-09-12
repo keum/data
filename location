@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LizardTech"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33628273010254,
+          47.60506352093059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The HUB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33131527900697,
+          47.600527744506465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tableau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34512329101561,
+          47.64865779789847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "OneOcean "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34176516532898,
+          47.61604324575524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "UW Campus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30752944946289,
+          47.656412596622644
+        ]
+      }
+    }
+  ]
+}
